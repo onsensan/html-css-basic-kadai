@@ -18,12 +18,12 @@ h1{
 
 .decoration {
     /* ここにCSSを書いていきます */
-    font-size: 20px;
+    font-size: 40px;
     color: skyblue;
  }
  .decoration-pink {
     /* ここにCSSを書いていきます */
-    font-size: 20px;
+    font-size: 40px;
     color: rgb(255, 192, 203);
  }
 
