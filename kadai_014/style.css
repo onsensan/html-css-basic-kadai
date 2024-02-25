@@ -1,0 +1,36 @@
+
+body{
+    font-family:"Arial", "Meiryo", sans-serif;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+
+h1{
+    font-family:"Josefin Sans", sans-serif;
+    font-size: 40px;
+    letter-spacing: 1.2em;
+    text-shadow: 3px 3px 2px #c0c0c0;
+    border-bottom: solid;
+    border-color:rgb(115,115,114);
+}
+
+.decoration {
+    /* ここにCSSを書いていきます */
+    font-size: 20px;
+    color: skyblue;
+ }
+ .decoration-pink {
+    /* ここにCSSを書いていきます */
+    font-size: 20px;
+    color: rgb(255, 192, 203);
+ }
+
+ .blue{
+    color: skyblue;  
+ }
+
+ .pink{
+    color: rgb(255, 192, 203);
+ }
