@@ -1,4 +1,8 @@
 
+html{
+    font-size: 20px;
+}
+
 body{
     font-family:"Arial", "Meiryo", sans-serif;
     text-align: center;
@@ -9,15 +13,11 @@ p{
 
 h1{
     font-family:"Josefin Sans", sans-serif;
-    font-size: 40px;
+    font-size: 2rem;
     letter-spacing: 1.2em;
     text-shadow: 3px 3px 2px #c0c0c0;
     border-bottom: solid;
     border-color:rgb(115,115,114);
-}
-
-h2{
-    font-size: 2rem;
 }
 
 .decoration {
@@ -35,4 +35,8 @@ h2{
 
  .pink{
     color: rgb(255, 192, 203);
+ }
+
+ #basic p{
+    font-weight: bold;
  }
